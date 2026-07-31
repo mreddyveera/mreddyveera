@@ -56,10 +56,10 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center">
 ![](https://streak-stats.demolab.com/?user=mreddyveera&theme=cobalt2&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mreddyveera&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</p>
 ---
 
 ## 🐍 GitHub Contribution Snake
