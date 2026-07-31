@@ -47,16 +47,18 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Haripalepu&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Haripalepu&theme=cobalt2&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Haripalepu&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mreddyveera)](https://github.com/mreddyveera)
+
+![](https://github-readme-stats.shion.dev/api?username=mreddyveera&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=mreddyveera&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mreddyveera&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/mreddyveera/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
