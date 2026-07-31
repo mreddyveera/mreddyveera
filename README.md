@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
+  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm Hari Krishna Palepu
+# 👋 Hi, I'm Veera Manikanta Reddy
 
-### Software Engineer II – SRE @ JPMorgan Chase  
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+### Senior Systems Engineer – DevOps Engineer @ Infosys  
+🚀 DevOps • Cloud Engineer | AWS  | GitHub Actions | Kubernetes | Terraform | Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@hareepalepu)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:harikpalepu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mreddyveera/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@veera-manikanta)
+[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:reddyveeramanikanta54304@gmail.com)
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **6 years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+I'm a **DevOps Engineer** with **4 years of IT experience** focused on building production-ready cloud infrastructure and automation solutions. My interests include Infrastructure as Code, CI/CD, Kubernetes, containerization, cloud security, and observability. I enjoy transforming manual operational processes into reliable, automated workflows while following DevOps and GitOps best practices.
 
 ---
 
