@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="500"/>
+  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="1000"/>
 </div>
 
 # 👋 Hi, I'm Veera Manikanta Reddy
