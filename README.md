@@ -2,7 +2,7 @@
   <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="100%" style="max-width:800px;"/>
 </p>
 
-# 👋 Hi, I'm Veera Manikanta Reddy
+# 👋 Hi, I'm Reddy Veera Manikanta
 
 ### Senior Systems Engineer – DevOps Engineer @ Infosys  
 🚀 DevOps • Cloud Engineer | AWS  | GitHub Actions | Kubernetes | Terraform | Docker
