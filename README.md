@@ -58,15 +58,34 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/mreddyveera/mreddyveera/output/github-snake-dark.svg">
-
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/mreddyveera/mreddyveera/output/github-snake.svg">
-
   <img alt="GitHub Contribution Snake"
        src="https://raw.githubusercontent.com/mreddyveera/mreddyveera/output/github-snake.svg">
 </picture>
 </div>
 
 ---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mreddyveera/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:reddyveeramanikanta54304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mreddyveera">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- <a href="https://manikanta.space">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a> -->
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
 
 Thanks for visiting!
