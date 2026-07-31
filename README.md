@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mreddyveera/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@veera-manikanta)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:reddyveeramanikanta54304@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-reddyveeramanikanta54304@gmail.com-red?logo=gmail&style=flat)](mailto:reddyveeramanikanta54304@gmail.com)
 
 ---
 
