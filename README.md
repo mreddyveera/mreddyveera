@@ -55,7 +55,16 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/mreddyveera/mreddyveera/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/mreddyveera/mreddyveera/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/mreddyveera/mreddyveera/output/github-snake.svg">
+</picture>
   <img src="https://github.com/mreddyveera/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
