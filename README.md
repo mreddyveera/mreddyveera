@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="800" height="300"/>
-</div>
+<p align="center">
+  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="100%" style="max-width:800px;"/>
+</p>
 
 # 👋 Hi, I'm Veera Manikanta Reddy
 
