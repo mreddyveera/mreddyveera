@@ -98,4 +98,6 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
 
-⭐ Thanks for visiting! Feel free to explore my repositories and connect with me.
+---
+
+Thanks for visiting!
