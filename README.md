@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="1000" height="300"/>
+  <img src="./pictures/GitHub Banner.png" alt="GitHub Banner" width="800" height="300"/>
 </div>
 
 # 👋 Hi, I'm Veera Manikanta Reddy
@@ -99,5 +99,6 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 </p>
 
 ---
-
-Thanks for visiting!
+<p align="center">
+    Thanks for visiting!
+</p>
