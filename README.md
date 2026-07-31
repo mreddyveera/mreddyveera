@@ -23,16 +23,17 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 
 ---
 
-### 🔧 What I Do
+### 🚀 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
-- 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
-- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+- ☁️ Design, provision, and manage cloud infrastructure on **AWS** using **Terraform**, following Infrastructure as Code (IaC) best practices.
+- 🐳 Build, deploy, and manage containerized applications using **Docker**, **Kubernetes**, and **Amazon ECS/EKS**.
+- 🚀 Develop and maintain **CI/CD pipelines** with **GitHub Actions**, automating build, test, security scanning, and deployment workflows.
+- 🔐 Implement DevSecOps practices using **Trivy**, **Checkov**, **Semgrep**, and **Gitleaks** to improve application and infrastructure security.
+- 📊 Monitor application and infrastructure health using **CloudWatch**, **Prometheus**, **Grafana**, and **Dynatrace** for proactive observability.
+- 🌐 Configure and manage **Nginx**, **Application Load Balancers (ALB)**, **Route 53**, **IAM**, and other AWS networking services.
+- 🐧 Automate operational tasks using **Linux**, **Bash**, and **Python**, improving deployment consistency and reducing manual effort.
+- 🛒 Develop and support **Salesforce Commerce Cloud (SFCC B2C)** applications using **SFRA**, **Business Manager**, **ISML**, **Controllers**, and **OCAPI**.
+- 📦 Manage source code and collaborative development workflows using **Git** and **GitHub**, following feature branching and pull request best practices.
 
 ---
 
