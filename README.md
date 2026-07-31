@@ -57,8 +57,6 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Activity
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mreddyveera&theme=cobalt2&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mreddyveera&theme=cobalt2&hide_border=true&layout=compact" height="180"/>
