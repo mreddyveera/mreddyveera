@@ -43,7 +43,17 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
 ### 💼 Career Snapshot
 
 - 🏢 **Infosys** – *Senior Systems Engineer* *(Aug 2022 – Present)*
-  Working across **AWS**, **DevOps**, and **Salesforce Commerce Cloud (SFCC B2C)**. Build and automate cloud infrastructure using Terraform, develop CI/CD pipelines with GitHub Actions, manage containerized applications on Docker and Kubernetes, and implement monitoring with CloudWatch, Prometheus, Grafana, and Dynatrace.
+  Working across **AWS**, **DevOps**, and **Salesforce Commerce Cloud (SFCC B2C)**. Build and automate cloud infrastructure using Terraform, develop CI/CD      pipelines with GitHub Actions, manage containerized applications on Docker and Kubernetes, and implement monitoring with CloudWatch, Prometheus, Grafana, and Dynatrace.
+
+---
+
+## 🏆 Certifications
+
+✅ AWS Certified Cloud Practitioner
+
+✅ HashiCorp Certified Terraform Associate
+
+---
 
 ## 📊 GitHub Stats
 
@@ -88,4 +98,4 @@ I'm a **DevOps Engineer** with **4 years of IT experience** focused on building 
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
 
-Thanks for visiting!
+⭐ Thanks for visiting! Feel free to explore my repositories and connect with me.
