@@ -13,7 +13,7 @@
 
 ---
 
-I'm a **DevOps Engineer** with **4 years of IT experience** focused on building production-ready cloud infrastructure and automation solutions. My interests include Infrastructure as Code, CI/CD, Kubernetes, containerization, cloud security, and observability. I enjoy transforming manual operational processes into reliable, automated workflows while following DevOps and GitOps best practices.
+DevOps-focused engineer with **4 years of overall IT experience** and hands-on expertise in **AWS, Terraform, GitHub Actions, Docker, Kubernetes, and cloud automation**. I build reusable infrastructure modules, automate CI/CD pipelines, integrate **Trivy, Semgrep, and Gitleaks** for DevSecOps, and deploy containerized applications on **EKS and ECS**. Passionate about **Infrastructure as Code, Kubernetes operations, cloud security, observability, and production-grade automation** that improves reliability and reduces manual operational effort.
 
 ---
 
