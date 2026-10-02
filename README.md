@@ -13,7 +13,7 @@
 
 ---
 
-DevOps-focused engineer with **4 years of overall IT experience** and hands-on expertise in **AWS, Terraform, GitHub Actions, Docker, Kubernetes, and cloud automation**. I build reusable infrastructure modules, automate CI/CD pipelines, integrate **Trivy, Semgrep, and Gitleaks** for DevSecOps, and deploy containerized applications on **EKS and ECS**. Passionate about **Infrastructure as Code, Kubernetes operations, cloud security, observability, and production-grade automation** that improves reliability and reduces manual operational effort.
+DevOps-focused engineer with **4 years of overall IT experience** and hands-on expertise in **AWS, Terraform, GitHub Actions, Gitlab, Docker, Kubernetes, and cloud automation**. I build reusable infrastructure modules, automate CI/CD pipelines, integrate **Trivy, Semgrep, and Gitleaks** for DevSecOps, and deploy containerized applications on **EKS and ECS**. Passionate about **Infrastructure as Code, Kubernetes operations, cloud security, observability, and production-grade automation** that improves reliability and reduces manual operational effort.
 
 ---
 
@@ -43,7 +43,7 @@ DevOps-focused engineer with **4 years of overall IT experience** and hands-on e
 ### 💼 Career Snapshot
 
 - 🏢 **Infosys** – *Senior Systems Engineer* *(Aug 2022 – Present)*
-  Working across **AWS**, **DevOps**, and **Salesforce Commerce Cloud (SFCC B2C)**. Build and automate cloud infrastructure using Terraform, develop CI/CD      pipelines with GitHub Actions, manage containerized applications on Docker and Kubernetes, and implement monitoring with CloudWatch, Prometheus, Grafana, and Dynatrace.
+  Working across **AWS**, **DevOps**. Build and automate cloud infrastructure using Terraform, develop CI/CD pipelines with GitHub Actions, manage containerized applications on Docker and Kubernetes, and implement monitoring with CloudWatch, Prometheus, Grafana, and Dynatrace.
 
 ---
 
